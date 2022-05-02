@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "redis1": {
+      "restored": true,
+      "restoreTime": "2022-04-10T13:18:32.7165131Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-04-10T13:18:19.1778627Z"
+    },
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2022-05-01T13:11:19.2788677Z"
+    }
+  },
+  "parameters": {
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-EA"
+    },
+    "redis1.resourceGroupName": {
+      "Name": "redis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-EA"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "388fc5bd-4b96-4d30-8a15-81a90a9212ac"
+    },
+    "redis1.resourceGroupLocation": {
+      "Name": "redis1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastasia"
+    },
+    "redis1.subscriptionId": {
+      "Name": "redis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "388fc5bd-4b96-4d30-8a15-81a90a9212ac"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "388fc5bd-4b96-4d30-8a15-81a90a9212ac"
+    }
+  }
+}
