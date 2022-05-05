@@ -37,10 +37,5 @@ namespace sgua.Hubs
                 DateTime.Now.Ticks
             );
         }
-
-        //public ChatHub()
-        //{
-        //    _redisConnectionFactory = RedisConnection.InitializeAsync();
-        //}
     }
 }
